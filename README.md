@@ -1,2 +1,3 @@
-# vllm-day3
-vllm-day3
+## Reliable Streaming (vLLM Direct)
+```python
+client = OpenAI(base_url="http://localhost:8000/v1", api_key="sk-FAKE")
